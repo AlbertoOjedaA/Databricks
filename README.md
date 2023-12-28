@@ -1,6 +1,6 @@
 <h1 align="center"> DataBricks - Exercises</h1>
 <h3 align="center"> Data Engineer Projects </h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/zAvKzxqXqePOtvQSuJ/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/zAvKzxqXqePOtvQSuJ/giphy.gif">
 
 
 <h3 align="left">Connect with me:</h3>
