@@ -1,10 +1,18 @@
-<h1 align="center">Databricks Data Engineer Projects</h1>
-<h3 align="center">OUTER Laughter"</h3>
+<h1 align="center"> DataBricks - Exercises</h1>
+<h3 align="center"> Data Engineer Projects </h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/zAvKzxqXqePOtvQSuJ/giphy.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alberto-ojeda-02174b219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alberto-ojeda-02174b219/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/alberto-ojeda-02174b219/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alberto ojeda" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+Welcome to the Databricks & PySpark SQL Mastery Hub!
+
+Within this hub, you'll discover an extensive array of exercises and projects designed to enhance your proficiency in Databricks, PySpark, and SQLSpark. Each exercise or project comes with meticulous instructions and inquiries, meticulously arranged within SQL files. Explore and deepen your understanding of relational databases through hands-on practice and real-world scenarios.
+
+
