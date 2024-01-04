@@ -1,5 +1,5 @@
-<h1 align="center"> DataBricks - Exercise 01</h1>
-<h3 align="center"> Data Engineer Project </h3>
+<h1 align="center"> DataBricks </h1>
+<h3 align="center"> Data Engineer Project 01 </h3>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/Irb20yXtA2QStkUnrE/giphy.gif">
 
 
